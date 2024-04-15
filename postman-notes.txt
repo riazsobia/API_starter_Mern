@@ -1,0 +1,15 @@
+Using Postman
+
+To make a request
+- set the method in the left-hand dropdown (GET, POST, etc...)
+- enter the URL into the input
+- hit "Send"
+
+To make a post request
+- Set the method to POST in the left-hand dropdown
+- enter the URL into the input
+- Select the "Body" tab
+- Select "raw" from the radio buttons
+- on the right-hand dropdown (where it says Text) select JSON
+- Enter your JSON data as an object in the textarea
+- hit "Send"

@@ -1,0 +1,4 @@
+In our API we're serving JSON data instead of HTML.
+
+CORS
+We've set CORS in our server.js file. This will allow our Express server to accept requests from any application.

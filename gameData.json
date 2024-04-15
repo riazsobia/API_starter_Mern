@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "title": "Super Mario Bros.",
+      "publisher": "Nintendo",
+      "coverArtUrl": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/header-image-super-mario-bros-apple-stock-nes-worth-more.png",
+      "completed": true
+    },
+    {
+      "title": "The Legend of Zelda",
+      "publisher": "Nintendo",
+      "coverArtUrl": "https://pbs.twimg.com/media/EuwrQSfXIAYwU-v.jpg",
+      "completed": false
+    },
+    {
+      "title": "Sonic",
+      "publisher": "Sega",
+      "coverArtUrl": "https://i.ytimg.com/vi/CqOlpQ7sepE/hqdefault.jpg",
+      "completed": true
+    },
+    {
+      "title": "Donkey Kong",
+      "publisher": "Nintendo",
+      "coverArtUrl": "https://cdn.geekwire.com/wp-content/uploads/2018/06/donkeykong.png",
+      "completed": true
+    },
+    {
+      "title": "Frogger",
+      "publisher": "Atari",
+      "coverArtUrl": "https://www.retrogames.cz/games/769/A26_01.gif",
+      "completed": false
+    },
+    {
+      "title": "PacMan",
+      "publisher": "Atari",
+      "coverArtUrl": "https://static.onecms.io/wp-content/uploads/sites/6/2013/01/atari-ms-pac-man_510x380.jpg",
+      "completed": true
+    }
+  ]
+}
